@@ -41,6 +41,7 @@ export const projectsData = [
 		ProjectHeader: {
 			title: 'Funnelspro',
 			tags: 'Full Stack / Web Application',
+			publishDate: 'February 12, 2020',
 		},
 		ProjectImages: [
 			{
@@ -377,7 +378,7 @@ export const projectsData = [
 		img: UCINCADApp,
 		ProjectHeader: {
 			title: 'INCAD (Indonesia Capacity Development) UC',
-			publishDate: 'May 13, 2023',
+			publishDate: 'Oct 01, 2024',
 			tags: 'Full Stack / Web Application',
 		},
 		ProjectImages: [
