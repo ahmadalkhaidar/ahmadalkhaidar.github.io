@@ -1,7 +1,7 @@
 const selectOptions = [
 	'Web Application',
 	'Mobile Application',
-	'UI/UX Design',
+	// 'UI/UX Design',
 ];
 
 const ProjectsFilter = ({ setSelectProject }) => {
@@ -26,8 +26,8 @@ const ProjectsFilter = ({ setSelectProject }) => {
                 dark:text-ternary-light
             "
 		>
-			<option value={setSelectProject} className="text-sm sm:text-md">
-				All Projects
+			<option value="" className="text-sm sm:text-md">
+				Select Project Type
 			</option>
 
 			{selectOptions.map((option) => (
