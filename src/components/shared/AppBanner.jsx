@@ -12,7 +12,7 @@ const AppBanner = () => {
 			initial={{ opacity: 0 }}
 			animate={{ opacity: 1 }}
 			transition={{ ease: 'easeInOut', duration: 0.9, delay: 0.2 }}
-			className="flex flex-col-reverse sm:justify-between items-center sm:flex-row xl:mt-12 lg:mt-12 sm:mt-2 md:mt-2"
+			className="flex flex-col sm:justify-between items-center sm:flex-row xl:mt-12 lg:mt-12 sm:mt-2 md:mt-2"
 		>
 		<motion.div
 			initial={{ opacity: 0, y: -180 }}
