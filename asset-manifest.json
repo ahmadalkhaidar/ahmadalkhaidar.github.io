@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.0222e02f.css",
-    "main.js": "/static/js/main.0d4325c3.js",
-    "static/js/439.7ba18233.chunk.js": "/static/js/439.7ba18233.chunk.js",
+    "main.js": "/static/js/main.e144f8c3.js",
+    "static/js/439.9299a377.chunk.js": "/static/js/439.9299a377.chunk.js",
     "static/js/5.6bb1d9e8.chunk.js": "/static/js/5.6bb1d9e8.chunk.js",
     "static/js/849.ec09b62f.chunk.js": "/static/js/849.ec09b62f.chunk.js",
     "static/js/283.5bc32832.chunk.js": "/static/js/283.5bc32832.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/712.20053015.chunk.js": "/static/js/712.20053015.chunk.js",
     "static/css/19.201ee0f0.chunk.css": "/static/css/19.201ee0f0.chunk.css",
     "static/js/19.b597fce6.chunk.js": "/static/js/19.b597fce6.chunk.js",
-    "static/js/320.a57ed8e5.chunk.js": "/static/js/320.a57ed8e5.chunk.js",
+    "static/js/320.5af32a70.chunk.js": "/static/js/320.5af32a70.chunk.js",
     "static/media/uc_incad-1.png": "/static/media/uc_incad-1.dcafaf2a10e7a7f37ed9.png",
     "static/media/profile.jpg": "/static/media/profile.b7f1330525c3fa30a078.jpg",
     "static/media/upj_simpul.jpeg": "/static/media/upj_simpul.fdab04c2df2da7ae0902.jpeg",
@@ -106,7 +106,7 @@
     "static/media/GeneralSans-BoldItalic.woff": "/static/media/GeneralSans-BoldItalic.62949caf7e58a37dcc10.woff",
     "static/media/GeneralSans-Bold.woff": "/static/media/GeneralSans-Bold.4d82f8e0a57d7f8de158.woff",
     "static/media/GeneralSans-ExtralightItalic.woff": "/static/media/GeneralSans-ExtralightItalic.637cc7b537db1b5556d0.woff",
-    "static/media/aws-tc-logo.svg": "/static/media/aws-tc-logo.829f69847114f438e65488cf37e37439.svg",
+    "static/media/aws-tc-logo.svg": "/static/media/aws-tc-logo.29356b392e58b0a7a719406bd4a640b0.svg",
     "static/media/GeneralSans-Extralight.woff": "/static/media/GeneralSans-Extralight.efc4ce019c1e039a0ca4.woff",
     "static/media/GeneralSans-SemiboldItalic.woff2": "/static/media/GeneralSans-SemiboldItalic.b5447559b0839b0bc9bd.woff2",
     "static/media/GeneralSans-LightItalic.woff2": "/static/media/GeneralSans-LightItalic.c8c13d9aa739ec1adb02.woff2",
@@ -124,8 +124,8 @@
     "static/media/logo_unpam.png": "/static/media/logo_unpam.fadb03067e054ab370fa.png",
     "index.html": "/index.html",
     "main.0222e02f.css.map": "/static/css/main.0222e02f.css.map",
-    "main.0d4325c3.js.map": "/static/js/main.0d4325c3.js.map",
-    "439.7ba18233.chunk.js.map": "/static/js/439.7ba18233.chunk.js.map",
+    "main.e144f8c3.js.map": "/static/js/main.e144f8c3.js.map",
+    "439.9299a377.chunk.js.map": "/static/js/439.9299a377.chunk.js.map",
     "5.6bb1d9e8.chunk.js.map": "/static/js/5.6bb1d9e8.chunk.js.map",
     "849.ec09b62f.chunk.js.map": "/static/js/849.ec09b62f.chunk.js.map",
     "283.5bc32832.chunk.js.map": "/static/js/283.5bc32832.chunk.js.map",
@@ -135,10 +135,10 @@
     "712.20053015.chunk.js.map": "/static/js/712.20053015.chunk.js.map",
     "19.201ee0f0.chunk.css.map": "/static/css/19.201ee0f0.chunk.css.map",
     "19.b597fce6.chunk.js.map": "/static/js/19.b597fce6.chunk.js.map",
-    "320.a57ed8e5.chunk.js.map": "/static/js/320.a57ed8e5.chunk.js.map"
+    "320.5af32a70.chunk.js.map": "/static/js/320.5af32a70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0222e02f.css",
-    "static/js/main.0d4325c3.js"
+    "static/js/main.e144f8c3.js"
   ]
 }
