@@ -198,8 +198,8 @@ export const projectsData = [
 				{
 					id: 3,
 					title: 'Website',
-					details: 'https://careercenter.uc.ac.id',
-					link: 'https://careercenter.dkproject.my.id/'
+					details: 'https://career.ciputra.ac.id',
+					link: 'https://career.ciputra.ac.id'
 				},
 			],
 			ObjectivesHeading: 'Objective',
