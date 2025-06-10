@@ -38,7 +38,7 @@ import UPJEOFFICE4 from '../images/project/upj_e-office-4.png';
 import UPJEOFFICE5 from '../images/project/upj_e-office-5.png';
 import UPJEOFFICE6 from '../images/project/upj_e-office-6.png';
 
-import UPJSIMPULApp from '../images/project/upj_simpul.jpeg';
+import UPJSIMPULApp from '../images/project/upj_simpul.png';
 import UPJSIMPUL1 from '../images/project/upj_simpul-1.png';
 import UPJSIMPUL2 from '../images/project/upj_simpul-2.png';
 import UPJSIMPUL3 from '../images/project/upj_simpul-3.png';
@@ -53,10 +53,13 @@ import UPJSPAApp from '../images/project/upj_spa.jpeg';
 import UPJSPA1 from '../images/project/upj_spa-1.png';
 import UPJSPA2 from '../images/project/upj_spa-2.png';
 import UPJSPA3 from '../images/project/upj_spa-3.png';
-import UPJSPA4 from '../images/project/upj_spa-4.png';
-import UPJSPA5 from '../images/project/upj_spa-5.png';
-import UPJSPA6 from '../images/project/upj_spa-6.png';
-import UPJSPA7 from '../images/project/upj_spa-7.png';
+
+import MENTORKITAAPP from '../images/project/mentorkita.png';
+import MENTORKITA1 from '../images/project/mentorkita-1.png';
+import MENTORKITA2 from '../images/project/mentorkita-2.png';
+import MENTORKITA3 from '../images/project/mentorkita-3.png';
+import MENTORKITA4 from '../images/project/mentorkita-4.png';
+import MENTORKITA5 from '../images/project/mentorkita-5.png';
 
 // import PropanSalesForce from '../images/project/propan_sales_analyzer.jpg';
 
@@ -637,6 +640,11 @@ export const projectsData = [
 		},
 		ProjectImages: [
 			{
+				id: 0,
+				title: null,
+				img: UPJEOFFICEApp,
+			},
+			{
 				id: 1,
 				title: null,
 				img: UPJEOFFICE1,
@@ -785,6 +793,11 @@ export const projectsData = [
 			tags: 'Full Stack / Web Application',
 		},
 		ProjectImages: [
+			{
+				id: 0,
+				title: null,
+				img: UPJSIMPULApp,
+			},
 			{
 				id: 1,
 				title: null,
@@ -964,26 +977,6 @@ export const projectsData = [
 				title: null,
 				img: UPJSPA3,
 			},
-			{
-				id: 4,
-				title: null,
-				img: UPJSPA4,
-			},
-			{
-				id: 5,
-				title: null,
-				img: UPJSPA5,
-			},
-			{
-				id: 6,
-				title: null,
-				img: UPJSPA6,
-			},
-			{
-				id: 7,
-				title: null,
-				img: UPJSPA7,
-			},
 		],
 		ProjectInfo: {
 			ClientHeading: 'About Project',
@@ -1109,6 +1102,108 @@ export const projectsData = [
 			],
 		},
 	},
+	{
+		id: 9,
+		title: 'Mentorkita',
+		category: 'Web Application',
+		img: MENTORKITAAPP,
+		ProjectHeader: {
+			title: 'Funnelspro',
+			tags: 'Full Stack / Web Application',
+			publishDate: 'Mei 06, 2025',
+		},
+		ProjectImages: [
+			{
+				id: 1,
+				title: null,
+				img: MENTORKITAAPP,
+			},
+			{
+				id: 2,
+				title: null,
+				img: MENTORKITA1,
+			},
+			{
+				id: 3,
+				title: null,
+				img: MENTORKITA2,
+			},
+			{
+				id: 4,
+				title: null,
+				img: MENTORKITA3,
+			},
+			{
+				id: 5,
+				title: null,
+				img: MENTORKITA4,
+			},
+			{
+				id: 6,
+				title: null,
+				img: MENTORKITA5,
+			},
+		],
+		ProjectInfo: {
+			ClientHeading: 'About Project',
+			CompanyInfo: [
+				{
+					id: 1,
+					title: 'Name',
+					details: 'Mentorkita',
+				},
+				{
+					id: 2,
+					title: 'As',
+					details: 'Full Stack Developer',
+				},
+				{
+					id: 3,
+					title: 'Website',
+					details: 'https://mentorkita.com',
+					link: 'https://mentorkita.com',
+				},
+			],
+			ObjectivesHeading: 'Objective',
+			ObjectivesDetails:
+				'Designing and building a Quiz Application.',
+			Technologies: [
+				{
+					title: 'Tools & Technologies',
+					techs: [
+						'HTML',
+						'CSS',
+						'JavaScript',
+						'PHP',
+						'MySQL',
+						'Laravel 11',
+						'Vite',
+						'Tailwind CSS',
+						'Bootstrap',
+						'others.',
+					],
+				},
+			],
+			ProjectDetailsHeading: 'Description',
+			ProjectDetails: [
+				{
+					id: 1,
+					details: ``
+				},
+			],
+			SocialSharingHeading: '',
+			SocialSharing: [
+				
+			],
+		},
+		RelatedProject: {
+			title: 'Related Projects',
+			Projects: [
+			],
+		},
+	},
+
+	
 ];
 
 export default projectsData;
