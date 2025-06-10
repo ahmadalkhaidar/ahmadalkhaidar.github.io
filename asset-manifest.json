@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0222e02f.css",
-    "main.js": "/static/js/main.f5cc7ef8.js",
+    "main.js": "/static/js/main.21b2b927.js",
     "static/js/439.9299a377.chunk.js": "/static/js/439.9299a377.chunk.js",
     "static/js/5.6bb1d9e8.chunk.js": "/static/js/5.6bb1d9e8.chunk.js",
     "static/js/849.059c96c3.chunk.js": "/static/js/849.059c96c3.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/712.20053015.chunk.js": "/static/js/712.20053015.chunk.js",
     "static/css/19.201ee0f0.chunk.css": "/static/css/19.201ee0f0.chunk.css",
     "static/js/19.b597fce6.chunk.js": "/static/js/19.b597fce6.chunk.js",
-    "static/js/415.b382b5e9.chunk.js": "/static/js/415.b382b5e9.chunk.js",
+    "static/js/415.5e0b2496.chunk.js": "/static/js/415.5e0b2496.chunk.js",
     "static/media/uc_incad-1.png": "/static/media/uc_incad-1.dcafaf2a10e7a7f37ed9.png",
     "static/media/profile.jpg": "/static/media/profile.b7f1330525c3fa30a078.jpg",
     "static/media/upj_spa.jpeg": "/static/media/upj_spa.f19ff8987733eb24f8ce.jpeg",
@@ -30,11 +30,11 @@
     "static/media/uc_career-8.png": "/static/media/uc_career-8.f6851525091d0493136c.png",
     "static/media/mentorkita-2.png": "/static/media/mentorkita-2.513b4e665e03b4f05b25.png",
     "static/media/mentorkita-3.png": "/static/media/mentorkita-3.0e2f72d1e874f2aaeef6.png",
-    "static/media/mentorkita-5.png": "/static/media/mentorkita-5.c15e70a98899cda87cad.png",
+    "static/media/mentorkita-5.png": "/static/media/mentorkita-5.add851633399682b12bf.png",
     "static/media/uc_ocw-5.png": "/static/media/uc_ocw-5.cb5da8556521930ec388.png",
-    "static/media/mentorkita-1.png": "/static/media/mentorkita-1.630a1b9c6930fd7e2561.png",
+    "static/media/mentorkita-1.png": "/static/media/mentorkita-1.022f6f7af8a3f956889f.png",
     "static/media/uc_career-10.png": "/static/media/uc_career-10.f6085630b7daa44cce13.png",
-    "static/media/mentorkita-4.png": "/static/media/mentorkita-4.bfab56818e9cbd1a57b7.png",
+    "static/media/mentorkita-4.png": "/static/media/mentorkita-4.2a5e7197160c6ea01c6c.png",
     "static/media/uc_career-9.png": "/static/media/uc_career-9.e6e48485ab09d4e1b09a.png",
     "static/media/funnelspro-2.png": "/static/media/funnelspro-2.3c505694cc9f74b867c0.png",
     "static/media/upj_simpul-2.png": "/static/media/upj_simpul-2.5d8660b98cf95c95f1a2.png",
@@ -126,7 +126,7 @@
     "static/media/logo_unpam.png": "/static/media/logo_unpam.fadb03067e054ab370fa.png",
     "index.html": "/index.html",
     "main.0222e02f.css.map": "/static/css/main.0222e02f.css.map",
-    "main.f5cc7ef8.js.map": "/static/js/main.f5cc7ef8.js.map",
+    "main.21b2b927.js.map": "/static/js/main.21b2b927.js.map",
     "439.9299a377.chunk.js.map": "/static/js/439.9299a377.chunk.js.map",
     "5.6bb1d9e8.chunk.js.map": "/static/js/5.6bb1d9e8.chunk.js.map",
     "849.059c96c3.chunk.js.map": "/static/js/849.059c96c3.chunk.js.map",
@@ -137,10 +137,10 @@
     "712.20053015.chunk.js.map": "/static/js/712.20053015.chunk.js.map",
     "19.201ee0f0.chunk.css.map": "/static/css/19.201ee0f0.chunk.css.map",
     "19.b597fce6.chunk.js.map": "/static/js/19.b597fce6.chunk.js.map",
-    "415.b382b5e9.chunk.js.map": "/static/js/415.b382b5e9.chunk.js.map"
+    "415.5e0b2496.chunk.js.map": "/static/js/415.5e0b2496.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0222e02f.css",
-    "static/js/main.f5cc7ef8.js"
+    "static/js/main.21b2b927.js"
   ]
 }
