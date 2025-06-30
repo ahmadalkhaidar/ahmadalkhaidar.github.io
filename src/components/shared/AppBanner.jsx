@@ -44,7 +44,7 @@ const AppBanner = () => {
 					}}
 					className="font-general-semibold text-2xl lg:text-3xl xl:text-4xl text-center sm:text-left text-ternary-dark dark:text-primary-light mobile-padding-top"
 				>
-					Hi, I am Ahmad Al Khaidar
+					Hi, I am Ahmad Al Khaidar, S. Kom.
 				</motion.h1>
 				<motion.p
 					initial={{ opacity: 0 }}
@@ -61,7 +61,7 @@ const AppBanner = () => {
 				<p className="text-justify sm:text-justify mt-2 mb-0 pt-2 pb-0" style={{
 					textAlign: 'justify',
 				}}>
-					I am a Full-Stack Developer with a passion for web development. I have experience in building web applications using modern technologies. I am a quick learner and always eager to learn new things. I am a team player and have good communication skills. I am also a self-motivated person and always strive to improve my skills.
+					I am a Full-Stack Developer who is interested in IT Development. I have experience in building web applications and mobile applications using modern technologies. In my career, I have been a tech leader / project manager, senior web developer, fullstack web developer, backend developer, and mobile developer. I am a fast learner and always eager to learn new things. I can work alone or as a team and have good communication skills. I am also a self-motivated person and always try to improve my skills.
 				</p>
 				<motion.div
 					initial={{ opacity: 0 }}
