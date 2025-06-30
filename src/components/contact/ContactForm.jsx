@@ -13,7 +13,7 @@ const ContactForm = () => {
 						const subject = e.target.elements.subject.value;
 						const message = e.target.elements.message.value;
 
-						const mailtoLink = `mailto:ahmadalkhaidar2@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${fullName}\nEmail: ${email}\n\n${message}`)}`;
+						const mailtoLink = `mailto:workmail.khaidar@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${fullName}\nEmail: ${email}\n\n${message}`)}`;
 
 						window.location.href = mailtoLink;
 					}}
