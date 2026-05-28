@@ -61,6 +61,14 @@ import MENTORKITA3 from '../images/project/mentorkita-3.png';
 import MENTORKITA4 from '../images/project/mentorkita-4.png';
 import MENTORKITA5 from '../images/project/mentorkita-5.png';
 
+import AwarenessGG from '../images/project/my.awarenessgg.com.png';
+import AwarenessGG1 from '../images/project/my.awarenessgg.com-1.png';
+import AwarenessGG2 from '../images/project/my.awarenessgg.com-2.png';
+import AwarenessGG3 from '../images/project/my.awarenessgg.com-3.png';
+import AwarenessGG4 from '../images/project/my.awarenessgg.com-4.png';
+import AwarenessGG5 from '../images/project/my.awarenessgg.com-5.png';
+import AwarenessGG6 from '../images/project/my.awarenessgg.com-6.png';
+
 // import PropanSalesForce from '../images/project/propan_sales_analyzer.jpg';
 
 export const projectsData = [
@@ -1189,6 +1197,122 @@ export const projectsData = [
 				{
 					id: 1,
 					details: ``
+				},
+			],
+			SocialSharingHeading: '',
+			SocialSharing: [
+				
+			],
+		},
+		RelatedProject: {
+			title: 'Related Projects',
+			Projects: [
+			],
+		},
+	},
+	{
+		id: 10,
+		title: 'Awarenessgg',
+		category: 'Web Application',
+		img: AwarenessGG,
+		ProjectHeader: {
+			title: 'Awarenessgg',
+			tags: 'Full Stack / Web Application',
+			publishDate: 'Mei 18, 2026',
+		},
+		ProjectImages: [
+			{
+				id: 1,
+				title: null,
+				img: AwarenessGG,
+			},
+			{
+				id: 2,
+				title: null,
+				img: AwarenessGG2,
+			},
+			{
+				id: 3,
+				title: null,
+				img: AwarenessGG3,
+			},
+			{
+				id: 4,
+				title: null,
+				img: AwarenessGG1,
+			},
+			{
+				id: 5,
+				title: null,
+				img: AwarenessGG4,
+			},
+			{
+				id: 6,
+				title: null,
+				img: AwarenessGG5,
+			},
+			{
+				id: 7,
+				title: null,
+				img: AwarenessGG6,
+			},
+		],
+		ProjectInfo: {
+			ClientHeading: 'About Project',
+			CompanyInfo: [
+				{
+					id: 1,
+					title: 'Name',
+					details: 'Awarenessgg',
+				},
+				{
+					id: 2,
+					title: 'As',
+					details: 'Full Stack Developer',
+				},
+				{
+					id: 3,
+					title: 'Website',
+					details: 'https://my.awarenessgg.com',
+					link: 'https://my.awarenessgg.com',
+				},
+			],
+			ObjectivesHeading: 'Objective',
+			ObjectivesDetails:
+				'Designing and building a Content Management System Company Profile.',
+			Technologies: [
+				{
+					title: 'Tools & Technologies',
+					techs: [
+						'HTML',
+						'CSS',
+						'JavaScript',
+						'TypeScript',
+						'Next.js',
+						'Tailwind CSS',
+						'MySQL',
+						'others.',
+					],
+				},
+			],
+			ProjectDetailsHeading: 'Description',
+			ProjectDetails: [
+				{
+					id: 1,
+					details: `For designing and building a Content Management System (CMS) for a company profile, the process typically involves several key steps:
+						<br>
+						1. Requirement Analysis: Understanding the specific needs and requirements of the company for their profile, including the type of content they want to manage, user roles, and any specific features they require.
+						<br>
+						2. Design: Creating a design for the CMS that is user-friendly and meets the requirements identified in the analysis phase. This includes designing the user interface, database schema, and overall architecture of the system.
+						<br>
+						3. Development: Building the CMS using appropriate technologies and frameworks. This involves coding the backend and frontend components, integrating the database, and implementing the features as per the design.
+						<br>
+						4. Testing: Conducting thorough testing to ensure that the CMS functions correctly, is secure, and meets the requirements. This includes unit testing, integration testing, and user acceptance testing.
+						<br>
+						5. Deployment: Deploying the CMS to a production environment where it can be accessed and used by the company. This involves setting up the server, configuring the application, and ensuring it is accessible to users.
+						<br>
+						6. Maintenance and Updates: Providing ongoing maintenance and updates to the CMS to ensure it continues to meet the company's needs, remains secure, and functions smoothly as technology evolves.
+					`
 				},
 			],
 			SocialSharingHeading: '',
