@@ -1273,8 +1273,8 @@ export const projectsData = [
 				{
 					id: 3,
 					title: 'Website',
-					details: 'https://my.awarenessgg.com',
-					link: 'https://my.awarenessgg.com',
+					details: 'https://awarenessgg.com',
+					link: 'https://awarenessgg.com',
 				},
 			],
 			ObjectivesHeading: 'Objective',
